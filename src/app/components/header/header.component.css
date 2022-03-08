@@ -1,0 +1,12 @@
+.primaryheader {
+  padding: 10px;
+  background-color: #2874F0;
+  color: #FFFFFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.secodaryheader {
+  background-color: #FFFFFF;
+}
